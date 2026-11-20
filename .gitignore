@@ -1,0 +1,31 @@
+# ---- 本地密钥：绝不提交 ----
+config.json
+.floorplan-render/
+.env
+.env.*
+*.key
+credentials.json
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+.pytest_cache/
+build/
+dist/
+
+# ---- 渲染产物（在工作目录里生成，不该进仓库）----
+渲染_*/
+_tmp/
+out/
+*.tmp
+
+# ---- 编辑器 / 系统 ----
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
