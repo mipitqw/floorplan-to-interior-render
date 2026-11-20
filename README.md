@@ -46,11 +46,11 @@
 
 ```bash
 # macOS / Linux
-git clone https://github.com/<your-name>/floorplan-to-interior-render.git \
+git clone https://github.com/mipitqw/floorplan-to-interior-render.git \
   ~/.workbuddy/skills/floorplan-to-interior-render
 
 # Windows (PowerShell)
-git clone https://github.com/<your-name>/floorplan-to-interior-render.git `
+git clone https://github.com/mipitqw/floorplan-to-interior-render.git `
   "$env:USERPROFILE\.workbuddy\skills\floorplan-to-interior-render"
 ```
 
